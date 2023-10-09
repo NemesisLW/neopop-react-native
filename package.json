@@ -1,6 +1,7 @@
 {
-    "name": "@arghyad/neopop-react-native",
+    "name": "@nemesislw/neopop-react-native",
     "version": "0.7.0",
+    "private": false,
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "typings": "dist/index.d.ts",
