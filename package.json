@@ -1,6 +1,6 @@
 {
-    "name": "neopop-react-native",
-    "version": "0.1.0",
+    "name": "@nemesislw/neopop-react-native",
+    "version": "0.7.0",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "typings": "dist/index.d.ts",
