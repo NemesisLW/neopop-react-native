@@ -5,6 +5,10 @@
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "typings": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NemesisLW/neopop-react-native.git"
+  },
     "exports": {
         ".": {
             "node": "./dist/index.js",
